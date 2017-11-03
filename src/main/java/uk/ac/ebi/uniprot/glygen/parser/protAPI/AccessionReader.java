@@ -1,4 +1,4 @@
-package uk.ac.ebi.uniprot.glygen.parser;
+package uk.ac.ebi.uniprot.glygen.parser.protAPI;
 
 import javax.json.JsonObject;
 import javax.ws.rs.client.Client;

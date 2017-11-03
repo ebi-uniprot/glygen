@@ -1,6 +1,6 @@
 package uk.ac.ebi.uniprot.glygen;
 
-import uk.ac.ebi.uniprot.glygen.parser.AccessionListReader;
+import uk.ac.ebi.uniprot.glygen.parser.protAPI.AccessionListReader;
 
 import java.io.IOException;
 import java.util.Date;

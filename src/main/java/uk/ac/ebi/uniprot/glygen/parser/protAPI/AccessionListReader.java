@@ -1,4 +1,6 @@
-package uk.ac.ebi.uniprot.glygen.parser;
+package uk.ac.ebi.uniprot.glygen.parser.protAPI;
+
+import uk.ac.ebi.uniprot.glygen.parser.PropertiesReader;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
